@@ -1,8 +1,7 @@
 # Wanna-git-good-Just-read-some-dumb-AF-stuff-lol.
 ## OverView
-Gitのコマンド大体忘れる馬鹿なのでまとめたいだけ
-あと、トラブルの対処法
-
+- Gitのコマンド大体忘れる馬鹿なのでまとめたいだけ、あと、トラブルの対処法
+- 自分用のメモも書く（まね）
 ## 使用ソフト
 - Visual Studio Code
 - コマンドプロンプト
