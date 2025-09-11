@@ -1,48 +1,52 @@
-# 部員との接し方
+# How to Deal With Your Crew
 
 ---
 
-## 基本情報
+## The Lowdown
 
-ロボコンに所属している学生は大きく分けて3つに分かれます
+Basically, you got three kinds of peeps in any tech club:
 
-- 自分から技術力の向上に関心があり、期日をしっかりまもる真面目ちゃんタイプ
-- 仕事を割り振られたらやる。余計な仕事は増やしたくない労働者タイプ
-- 割り振られた仕事すらやらず、ただただ怠けるだけのニートタイプ
+-   **The Grinder:** The go-getter who's all about leveling up their skills and always hits their deadlines. A real one.
+-   **The 9-to-5er:** Does the work you give 'em, but that's it. Don't expect any extra credit.
+-   **The Slacker:** Doesn't even do the work they're given. Just a freeloader, tbh.
 
-言い方はとても悪いですがこんな感じで分けられます。
-個人差はありますが、それぞれのタイプに応じてマネージャーとしてどう接するか考えていきましょう。
+Sounds harsh, but it is what it is. Let's break down how a manager should handle each type.
 
 ---
 
-### 真面目ちゃんタイプ
+### The Grinder
 
-彼らは何も言わなくても仕事をし、自分の実力を上げますが、放おっておくと壊れることが多々あります。
-部活中やDiscord上で話しかけたり、時々飲み物を差し入れてあげると彼らのモチベーションは上がり、メンタルの回復にも繋がります。
-ただ、絡みすぎるのも注意が必要です。
-彼らは仕事に生きる仕事人ですので、自分の仕事を過度に邪魔されるとストレスが溜まり、残業地獄へと自分から向かっていくので注意が必要です。
-部活中に「調子はどう？」などと軽く話しかけるぐらいにしておきましょう。
+These folks are self-starters and will grind hard, but they'll burn out if you just leave 'em be。
+Hit 'em up on Discord or slide 'em a drink once in a while。 It'll boost their morale and keep 'em from crashing。
+But yo, don't be too clingy。
+They live for the grind, and if you get in their way too much, they'll just stress out and pull endless all-nighters。 Not a good look。
+A simple "Yo, how's it hangin'?" is plenty。
 
-### 労働者タイプ
+### The 9-to-5er
 
-まず注意すべきことを上げていきます。
-- 仕事を終えた後、なにか改善してほしいことがない場合は雑用を強要しない。頼む程度にする。
-- できるだけ早く仕事を終わらせるように、さり気なく急かす
-この2つです。
+First, the ground rules:
+-   When they're done with a task, don't just dump random chores on them。 Ask, don't demand。
+-   Give 'em a low-key nudge to keep the pace up。
+These two things are key。
 
-彼らは仕事を振られたら動くので結構使えます。
-ただ、仕事がない期間が長期間続くと部活をやめてしまうので、適度に仕事を振り、余裕を持った期限を設定しましょう。
+They're pretty reliable when you assign them something。
+But if they've got too much downtime, they'll probably ghost the club。 So, keep a steady flow of tasks coming their way with some chill deadlines。
 
-仕事を早く終わらせられれば、さらに多くの仕事をふることができます。各班のリーダーと相談し、円滑に活動できるように調整すると良いと思います。
+If they wrap up early, you can line up more work for them。 Sync up with the team leads to keep the workflow smooth。
 
-### ニートタイプ
+### The Slacker
 
-## 結論：仕事を振らない
+## TL;DR: Don't give them work。
 
-そもそも技術力が彼らにはありません。
-成長する気がなく、仕事を振っても期限までに終わらせられないので意味はありません。
-以上です。そっとしておいてあげましょう。
+They've got zero skills, period。
+They have no drive to get better and will blow past every deadline, so it's pointless。
+That's it。 Just let them vibe。
 
-しかし、時々優秀な人がいたりするのである程度カバーの効く範囲で仕事をふるのも悪くはないでしょう。
+But hey, sometimes you find a diamond in the rough。 If you can afford to take a hit, tossing them a low-stakes task might not be the worst idea。
 
-## 
+---
+
+Here's a little nugget of wisdom to live by:
+
+Psychology says the moment a "hard worker" breaks is when they see a "slacker" getting props for doing nothing。
+
