@@ -6,17 +6,24 @@ Git の基本ユーザー設定（user.name / user.email / 既定ブランチ名
 
 ## 1. 基本ユーザー情報の設定
 
-あなたが行ったコミットに記録される名前とメールアドレスを設定します。
+あなたが行ったコミットに記録される名前とメールアドレスを設定します。この設定は、Gitを使い始める際に一度だけ行えば問題ありません。
 
 ```bash
+# あなたの名前を設定します（GitHubのユーザー名がおすすめです）
 git config --global user.name "Your Name"
+
+# あなたのメールアドレスを設定します（GitHubに登録しているアドレスがおすすめです）
 git config --global user.email "you@example.com"
 ```
 
-確認:
+> **Note:**
+> `--global` オプションは、PC上の全てのGitリポジトリに適用される共通設定です。特定のプロジェクトだけ違う設定にしたい場合は、そのリポジトリのフォルダ内で `--global` を付けずにコマンドを実行します。
+
+### 設定の確認
+正しく設定されたかを確認します。
 ```bash
-git config --global --get user.name
-git config --global --get user.email
+git config --global user.name
+git config --global user.email
 ```
 
 すべての設定と設定ファイルの場所を確認:
@@ -43,17 +50,19 @@ git config --list --show-origin
 
 ## 2. 既定ブランチ名を main に設定
 
-新規リポジトリ作成時の既定ブランチ名を main にします。
+新規リポジトリ作成時の既定ブランチ名を main にします。以前は `master` が一般的でしたが、現在では `main` が推奨されています。
 
 ```bash
 git config --global init.defaultBranch main
 ```
 
-既存リポジトリで master → main に変更したい場合（ローカル）:
+### (補足) 既存リポジトリのブランチ名を変更する場合
+もし `master` という名前のブランチを `main` に変更したい場合は、以下のコマンドを実行します。
 ```bash
+# 現在のブランチ名を 'main' に変更
 git branch -m master main
 ```
-リモートの「既定ブランチ」はホスティングサービス側（UI）で変更してください。
+リモートリポジトリのデフォルトブランチは、GitHubなどのWebサイト上で変更する必要があります。
 
 ---
 
