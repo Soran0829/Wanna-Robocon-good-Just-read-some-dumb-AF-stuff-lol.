@@ -95,4 +95,4 @@ git config --global --get init.defaultBranch
 - 新規作成時に main ではなく master ができる
   - `git config --global init.defaultBranch main` を設定後、改めて `git init` する。
 - グローバル設定を変えたのに反映されない
-  - リポジトリのローカル設定が優先されている可能性。`git config --list --show-origin` で設定の出所を確認。
+  - リポジトリのローカル設定が優先されている可能性。`git config --list --show-origin` で設定の出所を確認する。
