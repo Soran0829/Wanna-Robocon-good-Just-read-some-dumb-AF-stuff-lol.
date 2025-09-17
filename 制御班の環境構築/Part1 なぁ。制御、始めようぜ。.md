@@ -23,6 +23,7 @@
 - **過去の使用例:** Arduino, Raspberry Pi
 - **プログラミング言語:** C++
 
+
 ---
 
 ## 高レイヤ担当：ロボットの知能を司る
@@ -37,5 +38,5 @@
 
 ### 使用する主な技術
 - **OS:** Windows, Linux (Ubuntu)
-- **フレームワーク:** ROS (Robot Operating System)
+- **フレームワーク:** ROS2 (Robot Operating System 2) 
 - **プログラミング言語:** C++, Python
